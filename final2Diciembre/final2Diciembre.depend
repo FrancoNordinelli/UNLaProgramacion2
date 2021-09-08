@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1613107053 source:c:\users\usuario\desktop\final2diciembre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia.h"
+	"profesores.h"
+
+1613104322 c:\users\usuario\desktop\final2diciembre\materia.h
+
+1613080234 c:\users\usuario\desktop\final2diciembre\profesores.h
+
+1613150564 source:c:\users\usuario\desktop\final2diciembre\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia.h"
+	"profesores.h"
+
+1613080234 source:c:\users\usuario\desktop\final2diciembre\profesores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia.h"
+	"profesores.h"
+

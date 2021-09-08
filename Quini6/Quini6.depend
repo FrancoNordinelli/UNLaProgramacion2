@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1613697035 source:c:\users\usuario\desktop\quini6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"jugador.h"
+	"quini.h"
+
+1613697574 source:c:\users\usuario\desktop\quini6\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"jugador.h"
+
+1613691888 c:\users\usuario\desktop\quini6\jugador.h
+
+1613697003 c:\users\usuario\desktop\quini6\quini.h
+
+1613697259 source:c:\users\usuario\desktop\quini6\quini.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"jugador.h"
+	"quini.h"
+
